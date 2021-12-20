@@ -14,10 +14,10 @@ the runtimes of using the two methods.
 
 
 ---Compile and Run---
-    Compile using
-          make FindLIS
-    Run excutable with
-          ./FindLIS [input_file]
+    - Compile using
+            make FindLIS
+    - Run excutable with
+            ./FindLIS [input_file]
     
     * Note: without an input_file the program will automatically prompt
             the user to input an array of integers
